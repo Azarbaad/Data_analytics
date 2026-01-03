@@ -11,7 +11,7 @@
 
 - 🔭 M.Sc. in Data Analytics and Information System Management at Arden University, Berlin
 - 🌱 Passionate about leveraging data to drive product decisions
-- 💼 Experience in B2B and B2C product management
+- 💼 Experience in B2B and B2C Business analytics
 
 
 ## 🛠️ Technical Stack
